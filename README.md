@@ -1,4 +1,4 @@
-**StatsVLR**
+# **StatsVLR**
 
 StatsVLR is an Android application designed for Valorant enthusiasts who are passionate about tracking events and matches within the game. This app serves as a comprehensive platform for accessing detailed statistics, match histories, player profiles, and much more, offering a superior experience compared to the web version of vlr.gg.
 
