@@ -40,6 +40,6 @@ StatsVLR is licensed under the MIT License. For more information, please refer t
 
 StatsVLR is developed and maintained by a team of passionate gamers dedicated to providing the Valorant community with a superior tracking and analysis tool. Connect with us on social media for the latest updates and announcements:
 
-- Discord: [n0step_ services](https://discord.gg/pphu3r49U3)
+- Discord: [n0step_](https://discord.gg/pphu3r49U3)
 
 Thank you for choosing StatsVLR! We hope you enjoy using the app to enhance your Valorant experience.
